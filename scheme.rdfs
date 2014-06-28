@@ -17,7 +17,7 @@
 :dnbautorid a rdf:Property; rdfs:domain :Employee; rdfs:range :Int .
 :birth a rdf:Property; rdfs:domain :Employee; rdfs:range :Int .
  
-:dnbpubid a rdf:Property; drfs:domain :Publication; rdfs:range :Int;
-:dnbautorid a rdf:Property; drfs:domain :Publication; rdfs:range :Int;
-:title a rdf:Property; drfs:domain :Publication; rdfs:range :String;
-:pubdate a rdf:Property; drfs:domain :Publication; rdfs:range :Int;
+:dnbpubid a rdf:Property; rdfs:domain :Publication; rdfs:range :Int .
+:dnbautorid a rdf:Property; rdfs:domain :Publication; rdfs:range :Int .
+:title a rdf:Property; rdfs:domain :Publication; rdfs:range :String .
+:pubdate a rdf:Property; rdfs:domain :Publication; rdfs:range :Int .
