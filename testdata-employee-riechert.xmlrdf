@@ -9,6 +9,6 @@
     <semweb:degree>Prof.Dr.rer.nat</semweb:degree>
     <semweb:faculty>FIMN</semweb:faculty>
     <semweb:dnbautorid>132894424</semweb:dnbautorid>
-    <semweb:birth></semweb:birth>
+    <semweb:birth>0</semweb:birth>
   </semweb:Employee>
 </rdf:RDF>
