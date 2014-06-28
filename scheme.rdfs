@@ -2,10 +2,10 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-@prefix : <http://#> .
+@prefix : <https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme.rdfs#> .
  
 :Employee a rdfs:Class .
- :Publications a rdfs:Class .
+:Publications a rdfs:Class .
 
 :Int a rdfs:Datatype; owl:onDatatype  xsd:integer; xsd:minInclusive 1 .
 :String a rdfs:Datatype; owl:onDatatype  xsd:string .
