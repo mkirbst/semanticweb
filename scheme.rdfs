@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix : <http://#> .
+ 
+:Employee a rdfs:Class .
+ :Publications a rdfs:Class .
+
+:Int a rdfs:Datatype; owl:onDatatype  xsd:integer; xsd:minInclusive 1 .
+:String a rdfs:Datatype; owl:onDatatype  xsd:string .
+ 
+:cuid a rdf:Property; rdfs:domain :Employee; rdfs:range :Int .
+:lastname a rdf:Property; rdfs:domain :Employee; rdfs:range :String .
+:firstname a rdf:Property; rdfs:domain :Employee; rdfs:range :String .
+:degree a rdf:Property; rdfs:domain :Employee; rdfs:range :String .
+:dnbautorid a rdf:Property; rdfs:domain :Employee; rdfs:range :Int .
+:birth a rdf:Property; rdfs:domain :Employee; rdfs:range :Int .
+ 
+:dnbpubid a rdf:Property; drfs:domain :Publication; rdfs:range :Int;
+:dnbautorid a rdf:Property; drfs:domain :Publication; rdfs:range :Int;
+:title a rdf:Property; drfs:domain :Publication; rdfs:range :String;
+:pubdate a rdf:Property; drfs:domain :Publication; rdfs:range :Int;
