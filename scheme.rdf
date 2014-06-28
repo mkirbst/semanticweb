@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#birth">
+    <rdfs:range rdf:resource="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#Int"/>
+    <rdfs:domain rdf:resource="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#Employee"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#dnbautorid">
+    <rdfs:range rdf:resource="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#Int"/>
+    <rdfs:domain rdf:resource="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#Employee"/>
+    <rdfs:domain rdf:resource="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#Publication"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#firstname">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:range rdf:resource="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#String"/>
+    <rdfs:domain rdf:resource="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#Employee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#pubdate">
+    <rdfs:domain rdf:resource="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#Publication"/>
+    <rdfs:range rdf:resource="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#Int"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#dnbpubid">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#Publication"/>
+    <rdfs:range rdf:resource="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#Int"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#title">
+    <rdfs:domain rdf:resource="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#Publication"/>
+    <rdfs:range rdf:resource="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#String"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#lastname">
+    <rdfs:domain rdf:resource="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#Employee"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:range rdf:resource="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#String"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#Publications">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#Int">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+    <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    <xsd:minInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</xsd:minInclusive>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#String">
+    <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#Employee">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#cuid">
+    <rdfs:domain rdf:resource="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#Employee"/>
+    <rdfs:range rdf:resource="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#Int"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#degree">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#Employee"/>
+    <rdfs:range rdf:resource="https://raw.githubusercontent.com/mkirbst/semanticweb/master/scheme#String"/>
+  </rdf:Description>
+</rdf:RDF>
