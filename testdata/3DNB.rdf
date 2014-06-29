@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:rda="http://rdvocab.info/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+        <rdf:Description rdf:about="http://d-nb.info/01000002X">
+                <rdf:type rdf:resource="http://purl.org/ontology/bibo/Periodical" />
+                <dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
+                <owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-01000002X" />
+                <bibo:issn>0070-7252</bibo:issn>
+                <bibo:issn>0375-2135</bibo:issn>
+                <bibo:issn>0375-2135</bibo:issn>
+                <dc:identifier>(DE-600)7-3</dc:identifier>
+                <umbel:isLike rdf:resource="http://ld.zdb-services.de/data/7-3" />
+                <bibo:coden>SMTFB</bibo:coden>
+                <dc:identifier>(OColc)224540449</dc:identifier>
+                <dcterms:language rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger" />
+                <dcterms:accrualPeriodicity rdf:resource="http://marc21rdf.info/terms/continuingfre%23%23" />
+                <dc:title>Faunistische Abhandlungen</dc:title>
+                <bibo:shortTitle>FAUN ABH (DRES)</bibo:shortTitle>
+                <dcterms:contributor rdf:resource="http://d-nb.info/gnd/35521-5" />
+                <rda:placeOfPublication>Dresden</rda:placeOfPublication>
+                <dc:publisher>Museum für Tierkunde</dc:publisher>
+                <rda:publicationStatement>Dresden : Museum für Tierkunde, 1963</rda:publicationStatement>
+                <dcterms:isFormatOf rdf:resource="http://d-nb.info/979605725" />
+                <dc:relation rdf:resource="http://d-nb.info/979605725" />
+                <rda:precededBy rdf:resource="http://d-nb.info/010081739" />
+                <dcterms:subject rdf:resource="http://d-nb.info/gnd/4219481-7" />
+                <dcterms:issued>1963-2008</dcterms:issued>
+                <bibo:contributorList>
+                        <rdf:Seq>
+                                <rdf:li rdf:resource="http://d-nb.info/gnd/35521-5" />
+                        </rdf:Seq>
+                </bibo:contributorList>
+        </rdf:Description>
+
+	<rdf:Description rdf:about="http://d-nb.info/997124601">
+                <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
+                <dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
+                <owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-997124601" />
+                <bibo:isbn13>9783941608054</bibo:isbn13>
+                <dc:identifier>(OColc)472572772</dc:identifier>
+                <dcterms:language rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger" />
+                <dc:title>Agiles Requirements-Engineering für Softwareprojekte mit einer großen Anzahl verteilter Stakeholder</dc:title>
+                <marcRole:edt rdf:resource="http://d-nb.info/gnd/133039676" />
+                <marcRole:cre>Lauenroth, Kim</marcRole:cre>
+                <marcRole:cre>Lohmann, Steffen</marcRole:cre>
+                <marcRole:cre>Riechert, Thomas</marcRole:cre>
+                <rda:placeOfPublication>Leipzig</rda:placeOfPublication>
+                <dc:publisher>LIV</dc:publisher>
+                <rda:publicationStatement>Leipzig : LIV, 2009</rda:publicationStatement>
+                <isbd:P1053>206 S.</isbd:P1053>
+                <dcterms:bibliographicCitation>Leipziger Beiträge zur Informatik ; Bd. 18</dcterms:bibliographicCitation>
+                <dcterms:issued>2009</dcterms:issued>
+                <bibo:contributorList>
+                        <rdf:Seq>
+                                <rdf:li rdf:resource="http://d-nb.info/gnd/133039676" />
+                                <rdf:li>Lauenroth, Kim</rdf:li>
+                                <rdf:li>Lohmann, Steffen</rdf:li>
+                                <rdf:li>Riechert, Thomas</rdf:li>
+                        </rdf:Seq>
+                </bibo:contributorList>
+                <dcterms:isPartOf rdf:resource="http://d-nb.info/026610132" />
+        </rdf:Description>
+
+	<rdf:Description rdf:about="http://d-nb.info/997124784">
+                <rdf:type rdf:resource="http://purl.org/ontology/bibo/Collection" />
+                <dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
+                <owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-997124784" />
+                <dc:identifier>(OColc)724098317</dc:identifier>
+                <dc:title>Briefe zu Beförderung der Humanität</dc:title>
+                <dcterms:creator rdf:resource="http://d-nb.info/gnd/118549553" />
+                <rda:placeOfPublication>Riga</rda:placeOfPublication>
+                <dc:publisher>Johann Friedrich Hartknoch</dc:publisher>
+                <bibo:authorList>
+                        <rdf:Seq>
+                                <rdf:li rdf:resource="http://d-nb.info/gnd/118549553" />
+                        </rdf:Seq>
+                </bibo:authorList>
+        </rdf:Description>
+
+</rdf:RDF>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
