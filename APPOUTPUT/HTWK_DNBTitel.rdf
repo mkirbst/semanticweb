@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:rda="http://rdvocab.info/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/201079224">
+	<rdf:Description rdf:about="http://d-nb.info/201079224">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Periodical" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-201079224" />
@@ -19,7 +19,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/201079224">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/201959852">
+	<rdf:Description rdf:about="http://d-nb.info/201959852">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Collection" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-201959852" />
@@ -39,7 +39,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/201959852">
 		<dcterms:isPartOf rdf:resource="http://d-nb.info/011079274" />
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/202185613">
+	<rdf:Description rdf:about="http://d-nb.info/202185613">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-202185613" />
@@ -58,7 +58,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/202185613">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/203289978">
+	<rdf:Description rdf:about="http://d-nb.info/203289978">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-203289978" />
@@ -76,7 +76,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/203289978">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/203685202">
+	<rdf:Description rdf:about="http://d-nb.info/203685202">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-203685202" />
@@ -94,7 +94,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/203685202">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/203832205">
+	<rdf:Description rdf:about="http://d-nb.info/203832205">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Collection" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-203832205" />
@@ -110,7 +110,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/203832205">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/205370969">
+	<rdf:Description rdf:about="http://d-nb.info/205370969">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-205370969" />
@@ -139,7 +139,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/205370969">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/206547692">
+	<rdf:Description rdf:about="http://d-nb.info/206547692">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-206547692" />
@@ -158,7 +158,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/206547692">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/206777760">
+	<rdf:Description rdf:about="http://d-nb.info/206777760">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Collection" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-206777760" />
@@ -177,7 +177,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/206777760">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/20683070X">
+	<rdf:Description rdf:about="http://d-nb.info/20683070X">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Collection" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-20683070X" />
@@ -196,7 +196,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/20683070X">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/207877009">
+	<rdf:Description rdf:about="http://d-nb.info/207877009">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-207877009" />
@@ -218,7 +218,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/207877009">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/208389938">
+	<rdf:Description rdf:about="http://d-nb.info/208389938">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-208389938" />
@@ -240,7 +240,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/208389938">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/208558098">
+	<rdf:Description rdf:about="http://d-nb.info/208558098">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-208558098" />
@@ -260,7 +260,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/208558098">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/208749268">
+	<rdf:Description rdf:about="http://d-nb.info/208749268">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-208749268" />
@@ -282,7 +282,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/208749268">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/208918922">
+	<rdf:Description rdf:about="http://d-nb.info/208918922">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-208918922" />
@@ -303,7 +303,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/208918922">
 		<dcterms:isPartOf>Max-Planck-Institut für Strömungsforschung &lt;Göttingen&gt; : Bericht</dcterms:isPartOf>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/208979255">
+	<rdf:Description rdf:about="http://d-nb.info/208979255">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-208979255" />
@@ -328,7 +328,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/208979255">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/209036249">
+	<rdf:Description rdf:about="http://d-nb.info/209036249">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-209036249" />
@@ -348,7 +348,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/209036249">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/209039094">
+	<rdf:Description rdf:about="http://d-nb.info/209039094">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-209039094" />
@@ -371,7 +371,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/209039094">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/209163798">
+	<rdf:Description rdf:about="http://d-nb.info/209163798">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-209163798" />
@@ -392,7 +392,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/209163798">
 		<dcterms:isPartOf>Universität &lt;Gießen&gt; / Mathematisches Seminar : Mitteilungen aus dem Mathem. Seminar Gießen</dcterms:isPartOf>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/209219505">
+	<rdf:Description rdf:about="http://d-nb.info/209219505">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-209219505" />
@@ -419,7 +419,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/209219505">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/209266007">
+	<rdf:Description rdf:about="http://d-nb.info/209266007">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-209266007" />
@@ -442,7 +442,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/209266007">
 		<dcterms:isPartOf>GKSS-Forschungszentrum &lt;Geesthacht&gt; : GKSS-Forschungszentrum Geesthacht GmbH</dcterms:isPartOf>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/209266236">
+	<rdf:Description rdf:about="http://d-nb.info/209266236">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-209266236" />
@@ -466,7 +466,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/209266236">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/209267755">
+	<rdf:Description rdf:about="http://d-nb.info/209267755">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-209267755" />
@@ -488,7 +488,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/209267755">
 		<dcterms:isPartOf>GKSS-Forschungszentrum &lt;Geesthacht&gt; : GKSS-Forschungszentrum Geesthacht GmbH</dcterms:isPartOf>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/209344555">
+	<rdf:Description rdf:about="http://d-nb.info/209344555">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-209344555" />
@@ -512,7 +512,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/209344555">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/209586737">
+	<rdf:Description rdf:about="http://d-nb.info/209586737">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-209586737" />
@@ -538,7 +538,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/209586737">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/209803436">
+	<rdf:Description rdf:about="http://d-nb.info/209803436">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Collection" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-209803436" />
@@ -559,7 +559,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/209803436">
 		<dcterms:isPartOf>GKSS-Forschungszentrum &lt;Geesthacht&gt; : GKSS-Forschungszentrum Geesthacht GmbH</dcterms:isPartOf>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/210009535">
+	<rdf:Description rdf:about="http://d-nb.info/210009535">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-210009535" />
@@ -577,7 +577,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/210009535">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/210355921">
+	<rdf:Description rdf:about="http://d-nb.info/210355921">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-210355921" />
@@ -600,7 +600,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/210355921">
 		<dcterms:isPartOf>Deutsches Elektronen-Synchrotron &lt;Hamburg&gt; : DESY</dcterms:isPartOf>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/210468246">
+	<rdf:Description rdf:about="http://d-nb.info/210468246">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-210468246" />
@@ -622,7 +622,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/210468246">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/210468262">
+	<rdf:Description rdf:about="http://d-nb.info/210468262">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-210468262" />
@@ -640,7 +640,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/210468262">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/211261963">
+	<rdf:Description rdf:about="http://d-nb.info/211261963">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-211261963" />
@@ -657,7 +657,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/211261963">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/211428078">
+	<rdf:Description rdf:about="http://d-nb.info/211428078">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-211428078" />
@@ -675,7 +675,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/211428078">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/211435309">
+	<rdf:Description rdf:about="http://d-nb.info/211435309">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-211435309" />
@@ -692,7 +692,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/211435309">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/211872024">
+	<rdf:Description rdf:about="http://d-nb.info/211872024">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-211872024" />
@@ -710,7 +710,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/211872024">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/212126504">
+	<rdf:Description rdf:about="http://d-nb.info/212126504">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-212126504" />
@@ -728,7 +728,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/212126504">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/212367919">
+	<rdf:Description rdf:about="http://d-nb.info/212367919">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-212367919" />
@@ -745,7 +745,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/212367919">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/212405853">
+	<rdf:Description rdf:about="http://d-nb.info/212405853">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-212405853" />
@@ -762,7 +762,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/212405853">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/212479695">
+	<rdf:Description rdf:about="http://d-nb.info/212479695">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-212479695" />
@@ -779,7 +779,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/212479695">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/212479822">
+	<rdf:Description rdf:about="http://d-nb.info/212479822">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-212479822" />
@@ -796,7 +796,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/212479822">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/21251976X">
+	<rdf:Description rdf:about="http://d-nb.info/21251976X">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Collection" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-21251976X" />
@@ -811,7 +811,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/21251976X">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/212533533">
+	<rdf:Description rdf:about="http://d-nb.info/212533533">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-212533533" />
@@ -829,7 +829,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/212533533">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/212537237">
+	<rdf:Description rdf:about="http://d-nb.info/212537237">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-212537237" />
@@ -846,7 +846,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/212537237">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/212559664">
+	<rdf:Description rdf:about="http://d-nb.info/212559664">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-212559664" />
@@ -863,7 +863,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/212559664">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/212566989">
+	<rdf:Description rdf:about="http://d-nb.info/212566989">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-212566989" />
@@ -881,7 +881,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/212566989">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/21295041X">
+	<rdf:Description rdf:about="http://d-nb.info/21295041X">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-21295041X" />
@@ -898,7 +898,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/21295041X">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/212963570">
+	<rdf:Description rdf:about="http://d-nb.info/212963570">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-212963570" />
@@ -915,7 +915,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/212963570">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/213084503">
+	<rdf:Description rdf:about="http://d-nb.info/213084503">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-213084503" />
@@ -932,7 +932,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/213084503">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/213128438">
+	<rdf:Description rdf:about="http://d-nb.info/213128438">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-213128438" />
@@ -949,7 +949,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/213128438">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/213146096">
+	<rdf:Description rdf:about="http://d-nb.info/213146096">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-213146096" />
@@ -966,7 +966,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/213146096">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/21316194X">
+	<rdf:Description rdf:about="http://d-nb.info/21316194X">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-21316194X" />
@@ -983,7 +983,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/21316194X">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/213207044">
+	<rdf:Description rdf:about="http://d-nb.info/213207044">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-213207044" />
@@ -1001,7 +1001,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/213207044">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/213255944">
+	<rdf:Description rdf:about="http://d-nb.info/213255944">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-213255944" />
@@ -1018,7 +1018,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/213255944">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/213281384">
+	<rdf:Description rdf:about="http://d-nb.info/213281384">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-213281384" />
@@ -1036,7 +1036,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/213281384">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/213285452">
+	<rdf:Description rdf:about="http://d-nb.info/213285452">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-213285452" />
@@ -1053,7 +1053,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/213285452">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/213286726">
+	<rdf:Description rdf:about="http://d-nb.info/213286726">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-213286726" />
@@ -1070,7 +1070,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/213286726">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/213378213">
+	<rdf:Description rdf:about="http://d-nb.info/213378213">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-213378213" />
@@ -1087,7 +1087,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/213378213">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/972292098">
+	<rdf:Description rdf:about="http://d-nb.info/972292098">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-972292098" />
@@ -1121,7 +1121,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/972292098">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/975794698">
+	<rdf:Description rdf:about="http://d-nb.info/975794698">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-975794698" />
@@ -1155,7 +1155,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/975794698">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/97579535X">
+	<rdf:Description rdf:about="http://d-nb.info/97579535X">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-97579535X" />
@@ -1188,7 +1188,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/97579535X">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/979994993">
+	<rdf:Description rdf:about="http://d-nb.info/979994993">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-979994993" />
@@ -1221,7 +1221,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/979994993">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/984506209">
+	<rdf:Description rdf:about="http://d-nb.info/984506209">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Collection" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-984506209" />
@@ -1248,7 +1248,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/984506209">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/98525940X">
+	<rdf:Description rdf:about="http://d-nb.info/98525940X">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-98525940X" />
@@ -1280,7 +1280,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/98525940X">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/987981374">
+	<rdf:Description rdf:about="http://d-nb.info/987981374">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-987981374" />
@@ -1310,7 +1310,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/987981374">
 		<dcterms:isPartOf rdf:resource="http://d-nb.info/988586932" />
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/987981420">
+	<rdf:Description rdf:about="http://d-nb.info/987981420">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-987981420" />
@@ -1337,7 +1337,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/987981420">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/995311471">
+	<rdf:Description rdf:about="http://d-nb.info/995311471">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-995311471" />
@@ -1367,7 +1367,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/995311471">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/995311803">
+	<rdf:Description rdf:about="http://d-nb.info/995311803">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-995311803" />
@@ -1398,7 +1398,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/995311803">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/997124601">
+	<rdf:Description rdf:about="http://d-nb.info/997124601">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-997124601" />
@@ -1427,7 +1427,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/997124601">
 		<dcterms:isPartOf rdf:resource="http://d-nb.info/026610132" />
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/997298448">
+	<rdf:Description rdf:about="http://d-nb.info/997298448">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-997298448" />
@@ -1451,7 +1451,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/997298448">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/997554673">
+	<rdf:Description rdf:about="http://d-nb.info/997554673">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-997554673" />
@@ -1496,7 +1496,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/997554673">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/998012041">
+	<rdf:Description rdf:about="http://d-nb.info/998012041">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-998012041" />
@@ -1521,7 +1521,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/998012041">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/998486949">
+	<rdf:Description rdf:about="http://d-nb.info/998486949">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-998486949" />
@@ -1546,7 +1546,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/998486949">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/998648043">
+	<rdf:Description rdf:about="http://d-nb.info/998648043">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-998648043" />
@@ -1568,7 +1568,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/998648043">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/998824313">
+	<rdf:Description rdf:about="http://d-nb.info/998824313">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-998824313" />
@@ -1595,7 +1595,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/998824313">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/99961651X">
+	<rdf:Description rdf:about="http://d-nb.info/99961651X">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-99961651X" />
@@ -1619,7 +1619,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/99961651X">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/999666541">
+	<rdf:Description rdf:about="http://d-nb.info/999666541">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-999666541" />
@@ -1641,7 +1641,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/999666541">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1000096750">
+	<rdf:Description rdf:about="http://d-nb.info/1000096750">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1000096750" />
@@ -1664,7 +1664,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1000096750">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1000149293">
+	<rdf:Description rdf:about="http://d-nb.info/1000149293">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1000149293" />
@@ -1695,7 +1695,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1000149293">
 		<dcterms:isPartOf>Arbeitsbericht des Instituts für Ökonomie der Forst- und Holzwirtschaft</dcterms:isPartOf>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1000488586">
+	<rdf:Description rdf:about="http://d-nb.info/1000488586">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1000488586" />
@@ -1718,7 +1718,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1000488586">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1001130480">
+	<rdf:Description rdf:about="http://d-nb.info/1001130480">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1001130480" />
@@ -1743,7 +1743,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1001130480">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1002198453">
+	<rdf:Description rdf:about="http://d-nb.info/1002198453">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1002198453" />
@@ -1787,7 +1787,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1002198453">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1002587263">
+	<rdf:Description rdf:about="http://d-nb.info/1002587263">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1002587263" />
@@ -1818,7 +1818,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1002587263">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1002717078">
+	<rdf:Description rdf:about="http://d-nb.info/1002717078">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1002717078" />
@@ -1840,7 +1840,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1002717078">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1002720540">
+	<rdf:Description rdf:about="http://d-nb.info/1002720540">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1002720540" />
@@ -1862,7 +1862,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1002720540">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1002812224">
+	<rdf:Description rdf:about="http://d-nb.info/1002812224">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1002812224" />
@@ -1886,7 +1886,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1002812224">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1002818125">
+	<rdf:Description rdf:about="http://d-nb.info/1002818125">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1002818125" />
@@ -1908,7 +1908,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1002818125">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1002839793">
+	<rdf:Description rdf:about="http://d-nb.info/1002839793">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1002839793" />
@@ -1939,7 +1939,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1002839793">
 		<dcterms:isPartOf rdf:resource="http://d-nb.info/027050726" />
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1003465730">
+	<rdf:Description rdf:about="http://d-nb.info/1003465730">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1003465730" />
@@ -2011,7 +2011,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1003465730">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1004460376">
+	<rdf:Description rdf:about="http://d-nb.info/1004460376">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1004460376" />
@@ -2044,7 +2044,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1004460376">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005115982">
+	<rdf:Description rdf:about="http://d-nb.info/1005115982">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1005115982" />
@@ -2066,7 +2066,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005115982">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005168172">
+	<rdf:Description rdf:about="http://d-nb.info/1005168172">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1005168172" />
@@ -2088,7 +2088,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005168172">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/100517122X">
+	<rdf:Description rdf:about="http://d-nb.info/100517122X">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-100517122X" />
@@ -2110,7 +2110,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/100517122X">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005439613">
+	<rdf:Description rdf:about="http://d-nb.info/1005439613">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1005439613" />
@@ -2132,7 +2132,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005439613">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005664838">
+	<rdf:Description rdf:about="http://d-nb.info/1005664838">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1005664838" />
@@ -2156,7 +2156,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005664838">
 		<dcterms:isPartOf>arqus Working Paper</dcterms:isPartOf>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005737495">
+	<rdf:Description rdf:about="http://d-nb.info/1005737495">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1005737495" />
@@ -2177,7 +2177,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005737495">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005742197">
+	<rdf:Description rdf:about="http://d-nb.info/1005742197">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1005742197" />
@@ -2198,7 +2198,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005742197">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005742200">
+	<rdf:Description rdf:about="http://d-nb.info/1005742200">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1005742200" />
@@ -2220,7 +2220,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005742200">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005770387">
+	<rdf:Description rdf:about="http://d-nb.info/1005770387">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1005770387" />
@@ -2241,7 +2241,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005770387">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005770468">
+	<rdf:Description rdf:about="http://d-nb.info/1005770468">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1005770468" />
@@ -2262,7 +2262,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005770468">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005784531">
+	<rdf:Description rdf:about="http://d-nb.info/1005784531">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1005784531" />
@@ -2283,7 +2283,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005784531">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005785090">
+	<rdf:Description rdf:about="http://d-nb.info/1005785090">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1005785090" />
@@ -2304,7 +2304,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005785090">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005876401">
+	<rdf:Description rdf:about="http://d-nb.info/1005876401">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1005876401" />
@@ -2325,7 +2325,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005876401">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005876460">
+	<rdf:Description rdf:about="http://d-nb.info/1005876460">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1005876460" />
@@ -2346,7 +2346,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005876460">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005886180">
+	<rdf:Description rdf:about="http://d-nb.info/1005886180">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1005886180" />
@@ -2367,7 +2367,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005886180">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005891265">
+	<rdf:Description rdf:about="http://d-nb.info/1005891265">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1005891265" />
@@ -2388,7 +2388,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005891265">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005892253">
+	<rdf:Description rdf:about="http://d-nb.info/1005892253">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1005892253" />
@@ -2409,7 +2409,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005892253">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005896046">
+	<rdf:Description rdf:about="http://d-nb.info/1005896046">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1005896046" />
@@ -2430,7 +2430,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1005896046">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006003320">
+	<rdf:Description rdf:about="http://d-nb.info/1006003320">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006003320" />
@@ -2451,7 +2451,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006003320">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006004475">
+	<rdf:Description rdf:about="http://d-nb.info/1006004475">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006004475" />
@@ -2472,7 +2472,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006004475">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006009051">
+	<rdf:Description rdf:about="http://d-nb.info/1006009051">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006009051" />
@@ -2493,7 +2493,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006009051">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006013636">
+	<rdf:Description rdf:about="http://d-nb.info/1006013636">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006013636" />
@@ -2515,7 +2515,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006013636">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006018115">
+	<rdf:Description rdf:about="http://d-nb.info/1006018115">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006018115" />
@@ -2537,7 +2537,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006018115">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006018956">
+	<rdf:Description rdf:about="http://d-nb.info/1006018956">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006018956" />
@@ -2558,7 +2558,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006018956">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006018999">
+	<rdf:Description rdf:about="http://d-nb.info/1006018999">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006018999" />
@@ -2580,7 +2580,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006018999">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006026061">
+	<rdf:Description rdf:about="http://d-nb.info/1006026061">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006026061" />
@@ -2601,7 +2601,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006026061">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006030239">
+	<rdf:Description rdf:about="http://d-nb.info/1006030239">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006030239" />
@@ -2622,7 +2622,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006030239">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006032215">
+	<rdf:Description rdf:about="http://d-nb.info/1006032215">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006032215" />
@@ -2643,7 +2643,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006032215">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006051112">
+	<rdf:Description rdf:about="http://d-nb.info/1006051112">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006051112" />
@@ -2665,7 +2665,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006051112">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006052135">
+	<rdf:Description rdf:about="http://d-nb.info/1006052135">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006052135" />
@@ -2686,7 +2686,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006052135">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006096043">
+	<rdf:Description rdf:about="http://d-nb.info/1006096043">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006096043" />
@@ -2729,7 +2729,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006096043">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006126783">
+	<rdf:Description rdf:about="http://d-nb.info/1006126783">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006126783" />
@@ -2751,7 +2751,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006126783">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006127615">
+	<rdf:Description rdf:about="http://d-nb.info/1006127615">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006127615" />
@@ -2772,7 +2772,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006127615">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006198547">
+	<rdf:Description rdf:about="http://d-nb.info/1006198547">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006198547" />
@@ -2793,7 +2793,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006198547">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006198733">
+	<rdf:Description rdf:about="http://d-nb.info/1006198733">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006198733" />
@@ -2817,7 +2817,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006198733">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/100620699X">
+	<rdf:Description rdf:about="http://d-nb.info/100620699X">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-100620699X" />
@@ -2838,7 +2838,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/100620699X">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006237895">
+	<rdf:Description rdf:about="http://d-nb.info/1006237895">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006237895" />
@@ -2861,7 +2861,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006237895">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006253645">
+	<rdf:Description rdf:about="http://d-nb.info/1006253645">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006253645" />
@@ -2882,7 +2882,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006253645">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006300066">
+	<rdf:Description rdf:about="http://d-nb.info/1006300066">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006300066" />
@@ -2903,7 +2903,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006300066">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006319239">
+	<rdf:Description rdf:about="http://d-nb.info/1006319239">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006319239" />
@@ -2924,7 +2924,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006319239">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006386181">
+	<rdf:Description rdf:about="http://d-nb.info/1006386181">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006386181" />
@@ -2945,7 +2945,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006386181">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006393714">
+	<rdf:Description rdf:about="http://d-nb.info/1006393714">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006393714" />
@@ -2967,7 +2967,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006393714">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006394877">
+	<rdf:Description rdf:about="http://d-nb.info/1006394877">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006394877" />
@@ -2988,7 +2988,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006394877">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006427988">
+	<rdf:Description rdf:about="http://d-nb.info/1006427988">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006427988" />
@@ -3010,7 +3010,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006427988">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006427996">
+	<rdf:Description rdf:about="http://d-nb.info/1006427996">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006427996" />
@@ -3032,7 +3032,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006427996">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006428003">
+	<rdf:Description rdf:about="http://d-nb.info/1006428003">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006428003" />
@@ -3054,7 +3054,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006428003">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006468927">
+	<rdf:Description rdf:about="http://d-nb.info/1006468927">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006468927" />
@@ -3076,7 +3076,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006468927">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006476857">
+	<rdf:Description rdf:about="http://d-nb.info/1006476857">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006476857" />
@@ -3098,7 +3098,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006476857">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006480889">
+	<rdf:Description rdf:about="http://d-nb.info/1006480889">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006480889" />
@@ -3119,7 +3119,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006480889">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006489096">
+	<rdf:Description rdf:about="http://d-nb.info/1006489096">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006489096" />
@@ -3141,7 +3141,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006489096">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006496483">
+	<rdf:Description rdf:about="http://d-nb.info/1006496483">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006496483" />
@@ -3162,7 +3162,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006496483">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006501304">
+	<rdf:Description rdf:about="http://d-nb.info/1006501304">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006501304" />
@@ -3186,7 +3186,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006501304">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/100666422X">
+	<rdf:Description rdf:about="http://d-nb.info/100666422X">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-100666422X" />
@@ -3208,7 +3208,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/100666422X">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006668306">
+	<rdf:Description rdf:about="http://d-nb.info/1006668306">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006668306" />
@@ -3229,7 +3229,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006668306">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006680454">
+	<rdf:Description rdf:about="http://d-nb.info/1006680454">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006680454" />
@@ -3251,7 +3251,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006680454">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006737669">
+	<rdf:Description rdf:about="http://d-nb.info/1006737669">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006737669" />
@@ -3272,7 +3272,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006737669">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006793992">
+	<rdf:Description rdf:about="http://d-nb.info/1006793992">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006793992" />
@@ -3293,7 +3293,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006793992">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006801529">
+	<rdf:Description rdf:about="http://d-nb.info/1006801529">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006801529" />
@@ -3315,7 +3315,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006801529">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006805079">
+	<rdf:Description rdf:about="http://d-nb.info/1006805079">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006805079" />
@@ -3338,7 +3338,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006805079">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006810900">
+	<rdf:Description rdf:about="http://d-nb.info/1006810900">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006810900" />
@@ -3359,7 +3359,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006810900">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006845364">
+	<rdf:Description rdf:about="http://d-nb.info/1006845364">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006845364" />
@@ -3380,7 +3380,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006845364">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006861831">
+	<rdf:Description rdf:about="http://d-nb.info/1006861831">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006861831" />
@@ -3402,7 +3402,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006861831">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006958088">
+	<rdf:Description rdf:about="http://d-nb.info/1006958088">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006958088" />
@@ -3423,7 +3423,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006958088">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006958134">
+	<rdf:Description rdf:about="http://d-nb.info/1006958134">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1006958134" />
@@ -3444,7 +3444,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1006958134">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007000058">
+	<rdf:Description rdf:about="http://d-nb.info/1007000058">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1007000058" />
@@ -3466,7 +3466,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007000058">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007001801">
+	<rdf:Description rdf:about="http://d-nb.info/1007001801">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1007001801" />
@@ -3487,7 +3487,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007001801">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007049847">
+	<rdf:Description rdf:about="http://d-nb.info/1007049847">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1007049847" />
@@ -3509,7 +3509,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007049847">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007049863">
+	<rdf:Description rdf:about="http://d-nb.info/1007049863">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1007049863" />
@@ -3531,7 +3531,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007049863">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007049871">
+	<rdf:Description rdf:about="http://d-nb.info/1007049871">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1007049871" />
@@ -3553,7 +3553,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007049871">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/100704988X">
+	<rdf:Description rdf:about="http://d-nb.info/100704988X">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-100704988X" />
@@ -3575,7 +3575,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/100704988X">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007049901">
+	<rdf:Description rdf:about="http://d-nb.info/1007049901">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1007049901" />
@@ -3597,7 +3597,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007049901">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/100704991X">
+	<rdf:Description rdf:about="http://d-nb.info/100704991X">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-100704991X" />
@@ -3618,7 +3618,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/100704991X">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007049928">
+	<rdf:Description rdf:about="http://d-nb.info/1007049928">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1007049928" />
@@ -3640,7 +3640,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007049928">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007049936">
+	<rdf:Description rdf:about="http://d-nb.info/1007049936">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1007049936" />
@@ -3662,7 +3662,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007049936">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007049944">
+	<rdf:Description rdf:about="http://d-nb.info/1007049944">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1007049944" />
@@ -3684,7 +3684,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007049944">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007051442">
+	<rdf:Description rdf:about="http://d-nb.info/1007051442">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1007051442" />
@@ -3705,7 +3705,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007051442">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007055847">
+	<rdf:Description rdf:about="http://d-nb.info/1007055847">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1007055847" />
@@ -3726,7 +3726,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007055847">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007067217">
+	<rdf:Description rdf:about="http://d-nb.info/1007067217">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1007067217" />
@@ -3747,7 +3747,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007067217">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007067330">
+	<rdf:Description rdf:about="http://d-nb.info/1007067330">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1007067330" />
@@ -3769,7 +3769,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007067330">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007458771">
+	<rdf:Description rdf:about="http://d-nb.info/1007458771">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1007458771" />
@@ -3809,7 +3809,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007458771">
 		<dcterms:isPartOf rdf:resource="http://d-nb.info/1009428519" />
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007557915">
+	<rdf:Description rdf:about="http://d-nb.info/1007557915">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1007557915" />
@@ -3842,7 +3842,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007557915">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007904135">
+	<rdf:Description rdf:about="http://d-nb.info/1007904135">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1007904135" />
@@ -3878,7 +3878,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1007904135">
 		<dcterms:isPartOf rdf:resource="http://d-nb.info/978383478" />
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1008312967">
+	<rdf:Description rdf:about="http://d-nb.info/1008312967">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1008312967" />
@@ -3960,7 +3960,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1008312967">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1008461091">
+	<rdf:Description rdf:about="http://d-nb.info/1008461091">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1008461091" />
@@ -3993,7 +3993,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1008461091">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1008468606">
+	<rdf:Description rdf:about="http://d-nb.info/1008468606">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1008468606" />
@@ -4015,7 +4015,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1008468606">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1008470538">
+	<rdf:Description rdf:about="http://d-nb.info/1008470538">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1008470538" />
@@ -4036,7 +4036,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1008470538">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1008718688">
+	<rdf:Description rdf:about="http://d-nb.info/1008718688">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1008718688" />
@@ -4059,7 +4059,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1008718688">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1008840343">
+	<rdf:Description rdf:about="http://d-nb.info/1008840343">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1008840343" />
@@ -4080,7 +4080,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1008840343">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1008909998">
+	<rdf:Description rdf:about="http://d-nb.info/1008909998">
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1008909998" />
 		<umbel:isLike rdf:resource="http://dx.doi.org/10.2195/LJ_Not_Ref_Schmidt_102009" />
@@ -4099,7 +4099,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1008909998">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1009005502">
+	<rdf:Description rdf:about="http://d-nb.info/1009005502">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1009005502" />
@@ -4137,7 +4137,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1009005502">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/100904558X">
+	<rdf:Description rdf:about="http://d-nb.info/100904558X">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-100904558X" />
@@ -4159,7 +4159,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/100904558X">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1009178679">
+	<rdf:Description rdf:about="http://d-nb.info/1009178679">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1009178679" />
@@ -4184,7 +4184,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1009178679">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1009715984">
+	<rdf:Description rdf:about="http://d-nb.info/1009715984">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1009715984" />
@@ -4221,7 +4221,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1009715984">
 		<dcterms:isPartOf rdf:resource="http://d-nb.info/026542285" />
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1009891251">
+	<rdf:Description rdf:about="http://d-nb.info/1009891251">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1009891251" />
@@ -4259,7 +4259,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1009891251">
 		<dcterms:isPartOf rdf:resource="http://d-nb.info/01079042X" />
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010022423">
+	<rdf:Description rdf:about="http://d-nb.info/1010022423">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1010022423" />
@@ -4281,7 +4281,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010022423">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010022431">
+	<rdf:Description rdf:about="http://d-nb.info/1010022431">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1010022431" />
@@ -4302,7 +4302,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010022431">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010022598">
+	<rdf:Description rdf:about="http://d-nb.info/1010022598">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1010022598" />
@@ -4324,7 +4324,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010022598">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010175947">
+	<rdf:Description rdf:about="http://d-nb.info/1010175947">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1010175947" />
@@ -4346,7 +4346,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010175947">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010189573">
+	<rdf:Description rdf:about="http://d-nb.info/1010189573">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1010189573" />
@@ -4368,7 +4368,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010189573">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010519646">
+	<rdf:Description rdf:about="http://d-nb.info/1010519646">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1010519646" />
@@ -4389,7 +4389,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010519646">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010519654">
+	<rdf:Description rdf:about="http://d-nb.info/1010519654">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1010519654" />
@@ -4410,7 +4410,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010519654">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010519700">
+	<rdf:Description rdf:about="http://d-nb.info/1010519700">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1010519700" />
@@ -4431,7 +4431,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010519700">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010519743">
+	<rdf:Description rdf:about="http://d-nb.info/1010519743">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1010519743" />
@@ -4453,7 +4453,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010519743">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010524615">
+	<rdf:Description rdf:about="http://d-nb.info/1010524615">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1010524615" />
@@ -4475,7 +4475,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010524615">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010681095">
+	<rdf:Description rdf:about="http://d-nb.info/1010681095">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1010681095" />
@@ -4499,7 +4499,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010681095">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010814621">
+	<rdf:Description rdf:about="http://d-nb.info/1010814621">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1010814621" />
@@ -4540,7 +4540,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010814621">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010986090">
+	<rdf:Description rdf:about="http://d-nb.info/1010986090">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1010986090" />
@@ -4562,7 +4562,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1010986090">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1011289172">
+	<rdf:Description rdf:about="http://d-nb.info/1011289172">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1011289172" />
@@ -4583,7 +4583,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1011289172">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1011354209">
+	<rdf:Description rdf:about="http://d-nb.info/1011354209">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Collection" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1011354209" />
@@ -4626,7 +4626,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1011354209">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1011792524">
+	<rdf:Description rdf:about="http://d-nb.info/1011792524">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1011792524" />
@@ -4651,7 +4651,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1011792524">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1012167828">
+	<rdf:Description rdf:about="http://d-nb.info/1012167828">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1012167828" />
@@ -4676,7 +4676,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1012167828">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1012167925">
+	<rdf:Description rdf:about="http://d-nb.info/1012167925">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1012167925" />
@@ -4704,7 +4704,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1012167925">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1012421600">
+	<rdf:Description rdf:about="http://d-nb.info/1012421600">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1012421600" />
@@ -4731,7 +4731,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1012421600">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1014140242">
+	<rdf:Description rdf:about="http://d-nb.info/1014140242">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1014140242" />
@@ -4766,7 +4766,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1014140242">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1014140358">
+	<rdf:Description rdf:about="http://d-nb.info/1014140358">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1014140358" />
@@ -4797,7 +4797,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1014140358">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1017555028">
+	<rdf:Description rdf:about="http://d-nb.info/1017555028">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1017555028" />
@@ -4819,7 +4819,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1017555028">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1018004661">
+	<rdf:Description rdf:about="http://d-nb.info/1018004661">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1018004661" />
@@ -4855,7 +4855,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1018004661">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1020112786">
+	<rdf:Description rdf:about="http://d-nb.info/1020112786">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1020112786" />
@@ -4910,7 +4910,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1020112786">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1021098256">
+	<rdf:Description rdf:about="http://d-nb.info/1021098256">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1021098256" />
@@ -4975,7 +4975,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1021098256">
 		<dcterms:isPartOf rdf:resource="http://d-nb.info/011036796" />
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1021562963">
+	<rdf:Description rdf:about="http://d-nb.info/1021562963">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1021562963" />
@@ -4997,7 +4997,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1021562963">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1022501011">
+	<rdf:Description rdf:about="http://d-nb.info/1022501011">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1022501011" />
@@ -5041,7 +5041,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1022501011">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/102311433X">
+	<rdf:Description rdf:about="http://d-nb.info/102311433X">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Collection" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-102311433X" />
@@ -5063,7 +5063,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/102311433X">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/102335599X">
+	<rdf:Description rdf:about="http://d-nb.info/102335599X">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-102335599X" />
@@ -5088,7 +5088,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/102335599X">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1023664976">
+	<rdf:Description rdf:about="http://d-nb.info/1023664976">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1023664976" />
@@ -5110,7 +5110,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1023664976">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1025846311">
+	<rdf:Description rdf:about="http://d-nb.info/1025846311">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1025846311" />
@@ -5146,7 +5146,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1025846311">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1027669301">
+	<rdf:Description rdf:about="http://d-nb.info/1027669301">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1027669301" />
@@ -5176,7 +5176,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1027669301">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1030440891">
+	<rdf:Description rdf:about="http://d-nb.info/1030440891">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1030440891" />
@@ -5199,7 +5199,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1030440891">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1030652767">
+	<rdf:Description rdf:about="http://d-nb.info/1030652767">
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1030652767" />
 		<dc:title>Die Sammlung Frankfurt der Stadt- und Universitätsbibliothek Frankfurt am Main</dc:title>
@@ -5216,7 +5216,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1030652767">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1030904030">
+	<rdf:Description rdf:about="http://d-nb.info/1030904030">
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1030904030" />
 		<dc:title>Die Mechanisierung der deutschen Buchbinderei 1850 - 1900</dc:title>
@@ -5249,7 +5249,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1030904030">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1030920346">
+	<rdf:Description rdf:about="http://d-nb.info/1030920346">
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1030920346" />
 		<dc:title>Stenografie</dc:title>
@@ -5267,7 +5267,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1030920346">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1031051147">
+	<rdf:Description rdf:about="http://d-nb.info/1031051147">
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1031051147" />
 		<dc:title>Bulimie musealis: Museumssammlungen zwischen Kulturerbe und Kulturmüll</dc:title>
@@ -5283,7 +5283,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1031051147">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1031051155">
+	<rdf:Description rdf:about="http://d-nb.info/1031051155">
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1031051155" />
 		<dc:title>Akzession oder Aktionismus?: Systematisches Sammeln in Museen</dc:title>
@@ -5300,7 +5300,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1031051155">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1031059121">
+	<rdf:Description rdf:about="http://d-nb.info/1031059121">
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1031059121" />
 		<dc:title>&quot;Aus Alt macht neu&quot;</dc:title>
@@ -5318,7 +5318,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1031059121">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1031063196">
+	<rdf:Description rdf:about="http://d-nb.info/1031063196">
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1031063196" />
 		<dc:title>Arnold-Vogt-Preis für Museumspädagogik 2008</dc:title>
@@ -5335,7 +5335,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1031063196">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1031063218">
+	<rdf:Description rdf:about="http://d-nb.info/1031063218">
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1031063218" />
 		<dc:title>Von der bLack Box zum offenen Buch: Neue Hochschuldokumente und neue Hochschulgrade - und wie die Museumspraxis damit umgehen kann</dc:title>
@@ -5353,7 +5353,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1031063218">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1031063951">
+	<rdf:Description rdf:about="http://d-nb.info/1031063951">
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1031063951" />
 		<dc:title>Verzeichnis der Diplomarbeiten aus dem Studiengang Museologie der Hochschule für Technik, Wirtschaft und Kultur Leipzig, 2003 - 2008</dc:title>
@@ -5370,7 +5370,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1031063951">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1031399844">
+	<rdf:Description rdf:about="http://d-nb.info/1031399844">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1031399844" />
@@ -5397,7 +5397,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1031399844">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1034225073">
+	<rdf:Description rdf:about="http://d-nb.info/1034225073">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1034225073" />
@@ -5419,7 +5419,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1034225073">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1035870061">
+	<rdf:Description rdf:about="http://d-nb.info/1035870061">
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1035870061" />
 		<dcterms:language rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger" />
@@ -5435,7 +5435,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1035870061">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1035874571">
+	<rdf:Description rdf:about="http://d-nb.info/1035874571">
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1035874571" />
 		<dcterms:language rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger" />
@@ -5457,7 +5457,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1035874571">
 		<bibo:issue>33.1979, 1</bibo:issue>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1035890194">
+	<rdf:Description rdf:about="http://d-nb.info/1035890194">
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1035890194" />
 		<dcterms:language rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger" />
@@ -5480,7 +5480,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1035890194">
 		<bibo:issue>127.1999, 7</bibo:issue>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1035911469">
+	<rdf:Description rdf:about="http://d-nb.info/1035911469">
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1035911469" />
 		<dcterms:language rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger" />
@@ -5496,7 +5496,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1035911469">
 		</bibo:authorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1035914034">
+	<rdf:Description rdf:about="http://d-nb.info/1035914034">
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1035914034" />
 		<dcterms:language rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger" />
@@ -5513,7 +5513,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1035914034">
 		<bibo:issue>37.1984, 10</bibo:issue>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1036850234">
+	<rdf:Description rdf:about="http://d-nb.info/1036850234">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1036850234" />
@@ -5549,7 +5549,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1036850234">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1039832954">
+	<rdf:Description rdf:about="http://d-nb.info/1039832954">
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1039832954" />
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Article" />
@@ -5573,7 +5573,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1039832954">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1039833020">
+	<rdf:Description rdf:about="http://d-nb.info/1039833020">
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1039833020" />
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Article" />
@@ -5597,7 +5597,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1039833020">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1039833209">
+	<rdf:Description rdf:about="http://d-nb.info/1039833209">
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1039833209" />
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Article" />
@@ -5622,7 +5622,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1039833209">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1039833217">
+	<rdf:Description rdf:about="http://d-nb.info/1039833217">
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1039833217" />
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Article" />
@@ -5646,7 +5646,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1039833217">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/103983356X">
+	<rdf:Description rdf:about="http://d-nb.info/103983356X">
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-103983356X" />
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Article" />
@@ -5670,7 +5670,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/103983356X">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1039833616">
+	<rdf:Description rdf:about="http://d-nb.info/1039833616">
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1039833616" />
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Article" />
@@ -5694,7 +5694,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1039833616">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1039833845">
+	<rdf:Description rdf:about="http://d-nb.info/1039833845">
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1039833845" />
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Article" />
@@ -5718,7 +5718,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1039833845">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1039833977">
+	<rdf:Description rdf:about="http://d-nb.info/1039833977">
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1018" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1039833977" />
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Article" />
@@ -5742,7 +5742,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1039833977">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1044039558">
+	<rdf:Description rdf:about="http://d-nb.info/1044039558">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1044039558" />
@@ -5775,7 +5775,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1044039558">
 		<dcterms:isPartOf rdf:resource="http://d-nb.info/1028899475" />
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1044650575">
+	<rdf:Description rdf:about="http://d-nb.info/1044650575">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1044650575" />
@@ -5806,7 +5806,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1044650575">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1044698365">
+	<rdf:Description rdf:about="http://d-nb.info/1044698365">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1044698365" />
@@ -5869,7 +5869,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1044698365">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1044700912">
+	<rdf:Description rdf:about="http://d-nb.info/1044700912">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1044700912" />
@@ -5914,7 +5914,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1044700912">
 		<dcterms:isPartOf rdf:resource="http://d-nb.info/99182699X" />
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1044978503">
+	<rdf:Description rdf:about="http://d-nb.info/1044978503">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1044978503" />
@@ -5954,7 +5954,7 @@ DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1044978503">
 		</bibo:contributorList>
 	</rdf:Description>
 
-DNB match: 	<rdf:Description rdf:about="http://d-nb.info/1045744360">
+	<rdf:Description rdf:about="http://d-nb.info/1045744360">
 		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
 		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
 		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1045744360" />
