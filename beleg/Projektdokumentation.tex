@@ -97,8 +97,8 @@ An dieser Stelle erfolgt eine Auflistung aller relevanten Datenquellen und deren
 
 \subsection{Mitarbeiterkatalog der HTWK-Leipzig}
 
-Die aktuellste, öffentlich zugängliche Auflistung aller Mitarbeiter der HTWK-Leipzig besteht aus dem HTWK-Telefonverzeichnis. Diese HTML-Seite lässt sich unter der Webadresse \footnote{\url{http://www.htwk-leipzig.de/de/hochschule/telefonverzeichnis/}} abrufen.
-Eine aufbereitete Version dieser Daten im JSON-Format wird von Herrn Henri Knochenhauer, B.Sc. und Herrn Roy Meisser, B.Sc zur Verfügung gestellt und in diesem Projekt als Datenquelle genutzt.
+Die aktuellste, öffentlich zugängliche Auflistung aller Mitarbeiter der HTWK-Leipzig besteht aus dem HTWK-Telefonverzeichnis. Diese HTML-Seite lässt sich unter der Webadresse \cite{htwktel} abrufen.
+Eine aufbereitete Version dieser Daten im JSON-Format wird von Herrn Henri Knochenhauer, B.Sc. und Herrn Roy Meisser, B.Sc unter \cite{htwkteljson} zur Verfügung gestellt und in diesem Projekt als Datenquelle genutzt.
 
 \begin{tabular}{l|p{10cm}}
 	Link & \url{http://141.57.21.45:8080/info/staff}\\
@@ -126,7 +126,7 @@ Weiterhin wurde die Datei DNBTitel.rdf.gz heruntergeladen. Diese Datei enthält 
 
 \section{Extraktion relevanter Daten und import in einen Triplestore }
 
-Die Extraktion aller 3 Dateien erfolgt über eine für dieses Projekt erstellte JAVA-Anwendung, welche im Repository zu diesem Projekt hinterlegt ist. Das Repository kann unter folgender Webadresse abgerufen werden\footnote{\url{https://github.com/mkirbst/semanticweb}}.
+Die Extraktion aller 3 Dateien erfolgt über eine für dieses Projekt erstellte JAVA-Anwendung, welche im Repository zu diesem Projekt hinterlegt ist. Das Repository kann unter folgender Webadresse abgerufen werden\cite{gitmkirbstsm}.
 
 \subsection{Extraktion der HTWK-Mitarbeiter}
 Die Daten der HTWK-Mitarbeiter liegen im JSON Format vor. Die exakte Struktur zeigt das folgende Listing auszugsweise. 
@@ -224,7 +224,7 @@ Die JAVA-Anwendung bezieht das JSON-Dokument direkt von der Webressource. Die JA
 :pubdate a rdf:Property; rdfs:domain :Publication; rdfs:range :Int .
 \end{lstlisting}
 
-Da diese Datei im Format N3 vorliegt, wurde diese mit einem RDF-Translator \footnote{\url{http://rdf-translator.appspot.com/} } in das XML-Format überführt.
+Da diese Datei im Format N3 vorliegt, wurde diese mit einem RDF-Translator \cite{rdftransformator} in das XML-Format überführt.
 
 Die vom Java-Programm generierte RDF-Datei kann nun direkt über die Webschnittstelle in OntoWiki importiert werden und hat folgendes Format.
 \definecolor{listinggray}{gray}{0.9}
@@ -279,7 +279,7 @@ Die vom Java-Programm generierte RDF-Datei kann nun direkt über die Webschnitts
 \end{lstlisting}
 
 \subsection{Extraktion der Daten der Deutschen Nationalbibliothek}
-Unter der Webadresse \footnote{\url{http://datendienst.dnb.de/cgi-bin/mabit.pl?userID=opendata&pass=opendata&cmd=login}} lassen sich die benötigten Daten direkt im RDF-Format herunterladen. Die heruntergeladenen Dateien sind jedoch mit 9 und 12 GByte so groß,
+Unter der Webadresse \cite{dnbdata} lassen sich die benötigten Daten direkt im RDF-Format herunterladen. Die heruntergeladenen Dateien sind jedoch mit 9 und 12 GByte so groß,
 das diese nicht direkt über die Webschnittstelle des OntoWiki importiert werden können. 
 
 Aus diesem Grund filtert die JAVA-Anwendung aus den Datensätzen nur diese heraus, deren Autor den Vor- und Nachname von HTWK-Mitarbeitern enthält. Um diese Operationen effizient durchführen zu können, werden in der JAVA-Anwendung Hashmaps erzeugt, die als Schlüssel die betreffenden RDF-Tags so wie Vor- und Nachname als Hashwert enthalten. Durch diese Implementierungsvariante werden die Vorteile der Hashmap-Datenstruktur genutzt. Außerdem werden so wenig wie möglich rechenintensive Stringmanipulationen durchgeführt. 
@@ -448,6 +448,7 @@ Das zweite Problem besteht darin, dass von der Datenquelle HTWK-Telefonbuch nur 
   	backgroundcolor=\color[rgb]{0.97,0.97,0.97},
 }
 \begin{lstlisting}[captionpos=b, caption=SPARQL-Abfrage, label=SPARQL-Abfrage]
+PREFIX bibo: <http://purl.org/ontology/bibo/>
 PREFIX ns3: <http://purl.org/ontology/bibo/>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
@@ -460,7 +461,7 @@ PREFIX semweb: <https://raw.githubusercontent.com/mkirbst/semanticweb/master/sch
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX marcRole: <http://id.loc.gov/vocabulary/relators/>
 
-select ?person ?lastname ?firstname (count(?document) as ?count)
+select ?person ?lastname ?firstname (count(?document)+count(?article) as ?count)
 where {
   ?person rdf:type semweb:Employee;
           semweb:lastname ?lastname;
@@ -469,27 +470,67 @@ where {
   ?document rdf:type ns3:Document;
             marcRole:edt ?editor .
   
+  ?article rdf:type bibo:Article;
+            marcRole:edt ?aeditor;
+            dc:creator ?acreator
+  
   Filter ( 
-  	#?editor = concat(?lastname, ", ", ?firstname)
     strstarts(concat(?editor, ""), ?lastname)
     AND strends(concat(?editor, ""), ?firstname)
+    AND strstarts(concat(?aeditor, ""), ?lastname)
+    AND strends(concat(?aeditor, ""), ?firstname)
+    
   )
   }
 LIMIT 200
 \end{lstlisting}
 
-
-
-
+\clearpage
 \subsection{Ergebnis der Anfrage}
 
+\begin{figure}[htb]
+\begin{center}
+ \includegraphics[width=1\hsize]{./images/querryresult.png}
+ \end{center}
+\caption[Ergebnis der SPARQL-Abfrage]{\label{querryresult}Ergebnis der SPARQL-Abfrage}
+\end{figure}
+
 \section{Interpretation und Zusammenfassung}
+Zusammenfassend lässt sich feststellen das die semantische Verknüpfung der Daten auf diese Weise möglich ist. Mit dem derzeitigen Datenbestand lassen sich jedoch automatisiert keine zufriedenstellenden Resultate erzielen.
+Sollten die zu Grunde liegenden Daten der Deutschen Nationalbibliothek in Zukunft in einem vollständig konsistenten Zustand befinden, ist mit aussagekräftigeren Ergebnissen zu rechnen. Ein manueller Abgleich der einzelnen Personendaten oder die Zuhilfename weiterer
+Autoreneigenschaften, wie beispielsweise des Geburtsdatums lassen ebenfalls eine höhere Qualität der Ergebnisse erwarten.
 
-\textcolor{blue}{\textbf{Es handelt sich hier um ein Muster, das Dokument ist daher unvollständig...}}
+Alle Ressourcen zu diesem Projekt sind im Repository unter der Webadresse \cite{gitmkirbstsm} hinterlegt.
 
-\bibliographystyle{lnig.bst}
-\bibliography{Projektdokumentation}
+%\bibliographystyle{lnig.bst}
+%\bibliography{Projektdokumentation}
+
+\clearpage
+\renewcommand\refname{Projektdokumentation}
+\begin{thebibliography}{999}
+
+\bibitem{htwktel}    
+\url{http://www.htwk-leipzig.de/de/hochschule/telefonverzeichnis/}\\
+abrufbar am 11.06.2014
+
+\bibitem{htwkteljson}
+\url{http://141.57.21.45:8080/info/staff}
+abrufbar am 22.06.2014
+
+\bibitem{gitmkirbstsm}    
+\url{https://github.com/mkirbst/semanticweb}\\
+abrufbar am 12.06.2014
 
 
+\bibitem{rdftransformator}    
+\url{http://rdf-translator.appspot.com/}\\
+abrufbar am 25.06.2014
+
+
+\bibitem{dnbdata}    
+\url{http://datendienst.dnb.de/cgi-bin/mabit.pl?userID=opendata&pass=opendata&cmd=login}\\
+abrufbar am 25.06.2014
+
+\end{thebibliography}
 
 \end{document}
