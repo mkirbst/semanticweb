@@ -1,0 +1,121 @@
+\documentclass{beamer}
+%%\usetheme{Warsaw-seahorse}
+\usepackage{german}
+\usepackage{ngerman}
+\usepackage{hyperref}
+
+\usetheme{Warsaw}
+%\usecolortheme{seahorse}
+%\usefonttheme{serif}
+\useinnertheme{rectangles}
+%\usepackage{bookman}
+\setbeamercovered{transparent}
+
+%\setbeamertemplate{navigation symbols}{}
+%\setbeamertemplate{footline}{}
+%\setbeamertemplate{headline}{}
+
+
+\begin{document}
+
+\title{Projektdokumentation im Modul Semantic Web\\Anzahl der Publikationen pro Mitarbiter der HTWK-Leipzig}   
+\author{Marcel Kirbst} 
+\date{\today}
+%\logo{\includegraphics[scale=0.08]{logo-SF}}
+
+\begin{frame}
+\titlepage
+\end{frame}
+
+\begin{frame}
+\frametitle{Inhaltsverzeichnis}\tableofcontents
+\end{frame}
+
+\section{Recherchefragestellung}
+\begin{frame}\frametitle{Recherchefragestellung} 
+Eine Liste aller Angestellten der HTWK-Leipzig, geordnet nach der Anzahl der bisherigen Publikationen im deutschsprachigen Raum.
+\end{frame}
+
+
+\begin{frame}\frametitle{Inhaltliche Interpretation} 
+\begin{itemize}
+\item erfassen alle Mitarbeiter der HTWK in semantischer Datenbank
+\item erfassen aller Publikationen im deutschsprachigen Raum
+\item semantische Verknüpfung dieser Daten
+\end{itemize}
+\end{frame}
+
+\begin{frame}\frametitle{Umsetzung} 
+\begin{itemize}
+\item Virtuelle Maschine Oracle VirtualBox
+\item Betriebssystem Linux-Distribution Canonical Kubuntu 14.04
+\item Datenbank Virtuoso + OntoWiki
+\end{itemize}
+\end{frame}
+
+
+\section{relevante Datenquellen}
+\begin{frame}\frametitle{HTWK-Telefonverzeichnis} 
+\begin{itemize}
+\item aktuellste, öffentlich zugängliche Ressource die gefunden wurde
+\item abrufbar unter \url{http://www.htwk-leipzig.de/de/hochschule/telefonverzeichnis/}
+\item als JSON aufbereitete Daten von Herrn Henri Knochenhauer, B.Sc und Herrn Roy Meissner, B.Sc. verfügbar
+\item abrufbar unter \url{http://141.57.21.45:8080/info/staff}
+\end{itemize}
+\end{frame}
+
+\begin{frame}\frametitle{Normdaten der Deutschen Nationalbibliothek} 
+\begin{itemize}
+\item sind öffentlich zugänglich, halbjährlich aktualisiert, liegen direkt im RDF-Format vor
+\item jedoch sehr groß, (GND.rdf ca.9GB, DNBTitel.rdf ca.12GB), teilweise inkonsistent
+\item abrufbar unter \url{http://datendienst.dnb.de/cgi-bin/mabit.pl?userID=opendata&pass=opendata&cmd=login}
+\end{itemize}
+\end{frame}
+
+
+\section{Extraktion relevanter Daten}
+\begin{frame}\frametitle{Importierbare Aufbereitung der Daten erforderlich} 
+\begin{itemize}
+\item HTWK-Mitarbeiterdaten: JSON $\Rightarrow$ RDF
+\item DNB-Daten passen nicht in die VM, Extraktion der Daten die HTWK-Mitarbeiter betreffen
+\item Implementierung eines JAVA-Programms
+\end{itemize}
+\end{frame}
+
+
+
+\section{Verlinkung der Ressourcen}
+
+\begin{frame}\frametitle{Verlinkung der Ressourcen direkt ueber Nachname, Vorname} 
+\begin{itemize}
+\item Vorteil: Mitarbeiterdaten lassen sich direkt mit den DNB-Titeldaten verknüpfen
+\item Nachteil: sehr viele falsche Ergebnisse aufgrund doppelter Namen
+\end{itemize}
+\end{frame}
+
+\begin{frame}\frametitle{Verlinkung der Ressourcen ueber eindeutige AutorenID} 
+\begin{itemize}
+\item (theoretischer) Vorteil: AutorenID ist theoretisch eindeutig, es existiert theoretisch nur eine AutorenID pro HTWK-Mitarbeiter
+\item Praxis: Daten (im Moment noch) inkosistent, teilweise mehrere AutorenIDs, jeweilis unterschiedliche Publikationen zugeordnet
+\end{itemize}
+\end{frame}
+
+
+\section{Anfrage an die Forschungswissensbasis} 
+\begin{frame}\frametitle{SPARQL-Anfrage} 
+siehe code
+\end{frame}
+
+\begin{frame}\frametitle{Ergebnis SPARQL-Anfrage} 
+siehe code
+\end{frame}
+
+\section{Interpretation und Zusammenfassung}
+\begin{frame}\frametitle{Interpretation und Zusammenfassung}
+\begin{itemize}
+\item Aufbereitung der Daten viel zeitintensiver als erwartet
+\item aufgrund teilweise inkonsistenter Daten noch keine tragfähigen Ergebnisse
+\item ggf manuelles Aufbereiten der HTWK-Daten (Geburtsjahr, DNB-ID hinzufügen) sollte auch zu besseren Ergebnissen führen
+\end{itemize}
+\end{frame}
+\end{document}
